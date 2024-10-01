@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules
+
+# Environment file
+.env
+
+# Production build directory
+dist
+
+# test
+coverage
